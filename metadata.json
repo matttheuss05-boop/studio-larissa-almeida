@@ -1,0 +1,6 @@
+{
+  "name": "Larissa Almeida - Lash Designer de Luxo",
+  "description": "Landing page mobile-first de alta conversão para Lash Designer de luxo com catálogo de procedimentos, galeria, depoimentos e agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
